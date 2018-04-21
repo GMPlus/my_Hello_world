@@ -1,5 +1,5 @@
 # my_Hello_world
-This is my first GitHub project. It is used for learning.
+This is my first GitHub project. It will be used for learning.
 
 On April 21, 2018, I decided to use GitHub and Python researching and studying.
 
